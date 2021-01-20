@@ -676,9 +676,9 @@ a {
     margin: auto auto auto auto;
 }
 
-/* p {
+p {
     font-size: 11px;
-} */
+}
 
 .tight-width-whitespace {
     max-width: 600px;
@@ -770,21 +770,21 @@ h4 {
     background-color: #364577;
 }
 
-.bgc-atomic-mineshaft {
-    background-color: #303030;
+.bgc-atomic-tangerine {
+    background-color: #F3976C;
 }
 
 .tc-white {
-    color: #303030!important;
+    color: #F3976C!important;
 }
 
-.btn-atomic-mineshaft {
-    background: #303030;
+.btn-atomic-tangerine {
+    background: #F3976C;
     color: #FFFFFF!important;
 }
 
-.btn-atomic-mineshaft:hover {
-    background: #454545!important;
+.btn-atomic-tangerine:hover {
+    background: #c27956!important;
     color: #FFFFFF!important;
 }
 
@@ -796,12 +796,12 @@ h4 {
     color: #cccccc!important;
 }
 
-.ltc-atomic-mineshaft {
-    color: #303030!important;
+.ltc-atomic-tangerine {
+    color: #F3976C!important;
 }
 
-.ltc-atomic-mineshaft:hover {
-    color: #454545!important;
+.ltc-atomic-tangerine:hover {
+    color: #c27956!important;
 }
 
 .icon-dark-slate-blue {
@@ -814,10 +814,7 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-    /* background-image: url("img/lines-h2-bg.png"); */
-	background-image: linear-gradient(0deg, #0000000D 10%, #ffffff 10%, #ffffff 50%, #0000000D 50%, #0000000D 60%, #ffffff 60%, #ffffff 100%);
-	background-repeat: repeat;
-	background-size: 10%;
+    background-image: url("img/lines-h2-bg.png");
 }
 
 .bg-banniere {
@@ -825,7 +822,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
+    background-image: url("img/image-de-presentation.bmp");
 }
 
 @media (max-width: 1024px) {
