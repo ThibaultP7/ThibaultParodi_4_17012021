@@ -818,7 +818,7 @@ h4 {
     /* background-image: url("img/lines-h2-bg.webp"); */
 	background-image: linear-gradient(0deg, #0000000D 10%, #ffffff 10%, #ffffff 50%, #0000000D 50%, #0000000D 60%, #ffffff 60%, #ffffff 100%);
 	background-repeat: repeat;
-	background-size: 10%;
+	background-size: 10px 10px;
 }
 
 .bg-banniere {
