@@ -582,7 +582,8 @@ a[data-lightbox]:hover img {
     background: rgba(0, 0, 0, .5);
 	position: relative;
 	text-align: center;
-    /* position: absolute;
+    /* Correction responsive
+	position: absolute;
     left: 15px;
     right: 15px;
     bottom: 5px; */
@@ -632,7 +633,8 @@ a[data-lightbox]:hover img {
 }
 
 .snapshot-lb .modal-body {
-    /* padding-bottom: 45px; */
+    /* Correction responsive
+	padding-bottom: 45px; */
 }
 
 .snapshot-lb .lightbox-caption {
